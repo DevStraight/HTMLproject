@@ -1,0 +1,93 @@
+/* styles.css */
+
+/* Estilos generales */
+
+/* cuando quiero hacer diseño a un div con la propiedad "box" lo llamo como una clase con indicando el con un .*/
+
+/* cuando quiero seleccionar solo el id desde el css lo hago con un signo # */
+
+/* cuando quiero seleccionar una clase entonces debo poner el nombre de la clase indicandolo con un .*/
+
+body
+{
+    background-color: #cfc9ea;
+    font-family: "Oswald", sans-serif;
+    font-size: 18px;
+    text-decoration: overline orange;
+}
+
+
+.alineacion
+{
+    text-align: center;
+}
+
+#botones 
+{
+    font-family: 'Cinzel Decorative';font-size: 12px;
+    
+}
+
+  
+  .button1 {
+    background-color: rgb(241, 4, 4); 
+    color: black; 
+    border: 2px solid #04AA6D;
+    border-radius: 30%;
+    padding: 12px 30px;
+  }
+  
+  .button1:hover {
+    background-color: #15c505dd;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: rgb(8, 42, 236); 
+    color: black; 
+    border: 2px solid #cee40a;
+    border-radius: 30%;
+    padding: 12px 30px;
+  }
+  
+  .button2:hover {
+    background-color: #dbef08;
+    color: white;
+  }
+  
+  .button3 {
+    background-color: rgb(34, 7, 244); 
+    color: black; 
+    border: 2px solid #f44336;
+    border-radius: 30%;
+    padding: 12px 30px;
+  }
+  
+  .button3:hover {
+    background-color: #9a09ee;
+    color: white;
+  }
+  .button4 
+  {
+      background-color: #614FAA; 
+      color: black; 
+      border: 2px solid #04AA6D;
+      border-radius: 30%;
+      padding: 12px 30px;
+      font-family: 'Cinzel Decorative';font-size: 12px;    
+      
+  }
+  .button4:hover
+  {
+  
+      background-color: #044548;
+      color: white;
+  }
+
+  .fuentepag1
+  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    text-align: left;
+  }
+  
